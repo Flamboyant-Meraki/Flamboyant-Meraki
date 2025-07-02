@@ -46,22 +46,35 @@
 
 Du kennst das langweilige grüne GitHub-Raster? Hier ist die aufgepowerte Version: 🟡 👻
 
-### 🌞 Light Mode
+name: Generate Pac-Man Game
 
-![Pacman Light Mode](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg)
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
----
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
-### 🌚 Dark Mode
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-> ⚠️ GitHub unterstützt leider keine automatische Umschaltung nach Farbschema.
-> Darum hier das Pendant für Dunkelmodus-Nutzer:
+      - name: Generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
 
-![Pacman Dark Mode](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg)
-
----
-
-✨ Erstellt mit dem [Pacman Contribution Graph Generator](https://github.com/maurodesouza/pacman-contribution-graph) von [@maurodesouza](https://github.com/maurodesouza)
-###
-
-
+      - name: Push pacman-contribution-graph.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
