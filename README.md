@@ -78,3 +78,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ![Pacman Contribution Graph](https://raw.githubusercontent.com/<dein-username>/<dein-username>/output/pacman-contribution-graph.svg)
