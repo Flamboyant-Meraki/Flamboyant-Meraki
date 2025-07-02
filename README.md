@@ -42,12 +42,26 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+## 🎮 GitHub Contribution Graph – Pacman Edition
 
+Du kennst das langweilige grüne GitHub-Raster? Hier ist die aufgepowerte Version: 🟡 👻
+
+### 🌞 Light Mode
+
+![Pacman Light Mode](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg)
+
+---
+
+### 🌚 Dark Mode
+
+> ⚠️ GitHub unterstützt leider keine automatische Umschaltung nach Farbschema.
+> Darum hier das Pendant für Dunkelmodus-Nutzer:
+
+![Pacman Dark Mode](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg)
+
+---
+
+✨ Erstellt mit dem [Pacman Contribution Graph Generator](https://github.com/maurodesouza/pacman-contribution-graph) von [@maurodesouza](https://github.com/maurodesouza)
 ###
 
 
