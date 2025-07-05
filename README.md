@@ -40,7 +40,7 @@
 </p>
 
 ###
-
+![GitHub Snake](https://raw.githubusercontent.com/Flamboyant-Meraki/Flamboyant-Meraki/output/github-contribution-grid-snake.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flamboyant-meraki/flamboyant-meraki/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flamboyant-meraki/flamboyant-meraki/output/github-contribution-grid-snake.svg">
