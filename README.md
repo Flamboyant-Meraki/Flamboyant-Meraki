@@ -40,11 +40,5 @@
 </p>
 
 ###
-![GitHub Snake](https://raw.githubusercontent.com/Flamboyant-Meraki/Flamboyant-Meraki/output/github-contribution-grid-snake.svg)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flamboyant-meraki/flamboyant-meraki/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flamboyant-meraki/flamboyant-meraki/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/flamboyant-meraki/flamboyant-meraki/output/github-contribution-grid-snake.svg">
-</picture>
 
-_generated with [Flamboyant-Meraki/snk](https://github.com/flamboyant-meraki/snk)_
+![GitHub Snake](https://raw.githubusercontent.com/Flamboyant-Meraki/Flamboyant-Meraki/output/github-contribution-grid-snake.svg)
