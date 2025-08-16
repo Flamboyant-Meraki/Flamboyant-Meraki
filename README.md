@@ -3,11 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nico!;+A+frontend+developer+💻;+from+Germany" />
 </h1>
 
-<h3 align="left">📡 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nico-zinngrebe-25977a33a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nico zinngrebe" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">🚀 Some Languages And Tools I Have Used And learnd:</h3>
 
 <p align="left">
@@ -16,3 +11,7 @@
   </a>
 </p>
 
+<h3 align="left">📡 Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/nico-zinngrebe-25977a33a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nico zinngrebe" height="30" width="40" /></a>
+</p>
