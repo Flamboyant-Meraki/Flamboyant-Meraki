@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nico!;+A+frontend+developer+💻;+from+Germany" />
 </h1>
 
+<h3>🌱 About Me</h3>
 Welcome to my little sphere of creation.
 <br>
 These projects walk beside me on my journey toward becoming a web architect, a designer of human-machine interactions, and a seeker of digital solutions. Each repository is a fragment of that journey – reflecting a skill I've honed or a concept I've explored. They evolve with me, grow alongside me, and come to life.
@@ -15,7 +16,7 @@ These projects walk beside me on my journey toward becoming a web architect, a d
   </a>
 </p>
 
-<h3 align="left">📡 Connect with me:</h3>
+<h3 align="left">📡 Connect With Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nico-zinngrebe-25977a33a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nico zinngrebe" height="30" width="40" /></a>
 </p>
