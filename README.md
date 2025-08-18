@@ -7,8 +7,9 @@
 Welcome to my little sphere of creation.
 <br>
 These projects walk beside me on my journey toward becoming a web architect, a designer of human-machine interactions, and a seeker of digital solutions. Each repository is a fragment of that journey – reflecting a skill I've honed or a concept I've explored. They evolve with me, grow alongside me, and come to life.
-
+<br>
 ![Flamboyant-Meraki's Stats](https://github-readme-stats.vercel.app/api?username=Flamboyant-Meraki&theme=calm&show_icons=true&hide_border=true&count_private=true)
+![Flamboyant-Meraki's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Flamboyant-Meraki&theme=calm&hide_border=true)
 
 <h3 align="left">🚀 Some Languages And Tools I Have Used And Learnd:</h3>
 
