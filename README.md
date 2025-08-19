@@ -3,15 +3,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nico!;+A+frontend+developer+💻;+from+Germany" />
 </h1>
 
-<h3>🌱 About Me</h3>
+<h3>💬 About Me</h3>
 Welcome to my little sphere of creation.
 <br>
 These projects walk beside me on my journey toward becoming a web architect, a designer of human-machine interactions, and a seeker of digital solutions. Each repository is a fragment of that journey – reflecting a skill I've honed or a concept I've explored. They evolve with me, grow alongside me, and come to life.
 <br>
 <br>
 
-![Flamboyant-Meraki's Stats](https://github-readme-stats.vercel.app/api?username=Flamboyant-Meraki&theme=calm&show_icons=true&hide_border=true&count_private=true)
-![Flamboyant-Meraki's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Flamboyant-Meraki&theme=calm&hide_border=true)
+| ![Flamboyant-Meraki's Stats](https://github-readme-stats.vercel.app/api?username=Flamboyant-Meraki&theme=calm&show_icons=true&hide_border=true&count_private=true) | ![Flamboyant-Meraki's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Flamboyant-Meraki&theme=calm&hide_border=true) |
 
 <h3 align="left">🚀 Some Languages And Tools I Have Used And Learnd:</h3>
 
