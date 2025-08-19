@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=flamboyant-meraki&label=Profile%20views&color=0e75b6&style=flat" alt="flamboyant-meraki" /> </p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nico!;+A+frontend+developer+💻;+from+Germany" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nico!;+A+frontend+developer+💻;+from+Germany+🥨" />
 </h1>
 
 <h3>💬 About Me</h3>
@@ -10,10 +10,8 @@ These projects walk beside me on my journey toward becoming a web architect, a d
 <br>
 <br>
 
-<p align="center">
-    ![Flamboyant-Meraki's Stats](https://github-readme-stats.vercel.app/api?username=Flamboyant-Meraki&theme=calm&show_icons=true&hide_border=true&count_private=true) 
-    ![Flamboyant-Meraki's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Flamboyant-Meraki&theme=calm&hide_border=true)
-</p>
+![Flamboyant-Meraki's Stats](https://github-readme-stats.vercel.app/api?username=Flamboyant-Meraki&theme=calm&show_icons=true&hide_border=true&count_private=true) 
+![Flamboyant-Meraki's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Flamboyant-Meraki&theme=calm&hide_border=true)
 
 <h3 align="left">🚀 Some Languages And Tools I Have Used And Learnd:</h3>
 
