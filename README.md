@@ -11,7 +11,7 @@ These projects walk beside me on my journey toward becoming a web architect, a d
 <br>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flamboyant-Meraki&theme=calm&hide_border=true" alt="Flamboyant-Meraki's Streak" heigth="20%" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flamboyant-Meraki&theme=calm&hide_border=true" alt="Flamboyant-Meraki's Streak" heigth="200px" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api?username=Flamboyant-Meraki&theme=calm&show_icons=true&hide_border=true&count_private=true" alt="Flamboyant-Meraki's Stats" heigth="20%" width="48%" />
 </p>
 
