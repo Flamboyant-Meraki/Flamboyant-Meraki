@@ -6,7 +6,7 @@
 <h3>💬 About Me</h3>
 Welcome to my little sphere of creation.
 <br>
-These projects walk beside me on my journey toward becoming a web architect, a designer of human-machine interactions, and a seeker of digital solutions. Each repository is a fragment of that journey – reflecting a skill I've honed or a concept I've explored. They evolve with me, grow alongside me, and come to life.
+These projects walk beside me on my journey toward becoming a web architect, a designer of human-machine interactions, and a seeker of digital solutions. Each repository is a fragment of that journey – reflecting a skill I've honored or a concept I've explored. They evolve with me, grow alongside me, and come to life.
 <br>
 <br>
 
