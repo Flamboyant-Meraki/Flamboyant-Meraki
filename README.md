@@ -12,7 +12,7 @@ These projects walk beside me on my journey toward becoming a web architect, a d
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Flamboyant-Meraki&theme=calm&show_icons=true&hide_border=true&count_private=true" alt="Flamboyant-Meraki's Stats" height="200px" width="47%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flamboyant-Meraki&theme=calm&hide_border=true" alt="Flamboyant-Meraki's Streak" height="198px" width="50%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flamboyant-Meraki&theme=calm&hide_border=true" alt="Flamboyant-Meraki's Streak" height="199px" width="50%" />
 </p>
 
 <h3 align="left">🚀 Some Languages And Tools I Have Used And Learnd:</h3>
