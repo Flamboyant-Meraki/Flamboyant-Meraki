@@ -24,5 +24,5 @@ These projects walk beside me on my journey toward becoming a web architect, a d
 
 <h3 align="left">📡 Connect With Me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nico-zinngrebe-25977a33a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nico zinngrebe" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/nico-zinngrebe-25977a33a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nico zinngrebe" height="30" width="40" /></a>
 </p>
