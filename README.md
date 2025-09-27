@@ -10,6 +10,8 @@ These projects walk beside me on my journey toward becoming a web architect, a d
 <br>
 <br>
 
+<hr>
+
 <h3 align="left">🚀 Some Languages And Tools I Have Used And Learnd:</h3>
 
 <p align="left">
