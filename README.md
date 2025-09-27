@@ -8,7 +8,7 @@ Welcome to my little sphere of creation.
 <br>
 These projects walk beside me on my journey toward becoming a web architect, a designer of human-machine interactions, and a seeker of digital solutions. Each repository is a fragment of that journey – reflecting a skill I've honored or a concept I've explored. They evolve with me, grow alongside me, and come to life.
 <br>
----
+<hr height="2">
 
 <h3 align="left">🚀 Some Languages And Tools I Have Used And Learnd:</h3>
 
