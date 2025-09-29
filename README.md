@@ -26,8 +26,7 @@ These projects walk beside me on my journey toward becoming a web architect, a d
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
         alt="nico zinngrebe" 
         height="30" 
-        width="30" 
-        style="padding-right: 20;"/>
+        width="30" />
     </a>
     <a href="mailto:nicozinngrebe@yahoo.com" target="_blank">
       <img 
