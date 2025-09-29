@@ -8,6 +8,7 @@ Welcome to my little sphere of creation.
 <br>
 These projects walk beside me on my journey toward becoming a web architect, a designer of human-machine interactions, and a seeker of digital solutions. Each repository is a fragment of that journey – reflecting a skill I've honored or a concept I've explored. They evolve with me, grow alongside me, and come to life.
 <br>
+<br>
 
 <h3 align="left">🚀 Some Languages And Tools I Have Used And Learnd:</h3>
 
@@ -26,9 +27,14 @@ These projects walk beside me on my journey toward becoming a web architect, a d
         alt="nico zinngrebe" 
         height="30" 
         width="30" 
-        style="margin-right: 10;" />
+        style="padding-right: 10;"/>
     </a>
     <a href="mailto:nicozinngrebe@yahoo.com" target="_blank">
-      <img align="center" src="https://cdn-icons-png.flaticon.com/128/3955/3955163.png" alt="nico zinngrebe" height="40" width="40" />
+      <img 
+        align="center" 
+        src="https://cdn-icons-png.flaticon.com/128/3955/3955163.png" 
+        alt="nico zinngrebe"
+        height="40" 
+        width="40" />
     </a>
 </p>
