@@ -27,7 +27,7 @@ These projects walk beside me on my journey toward becoming a web architect, a d
         alt="nico zinngrebe" 
         height="30" 
         width="30"
-        margin-left="30"/>
+        margin="30"/>
     </a>
     <a href="mailto:nicozinngrebe@yahoo.com" target="_blank">
       <img 
