@@ -18,23 +18,22 @@ These projects walk beside me on my journey toward becoming a web architect, a d
   </a>
 </p>
 
-<h3 align="left">📡 Connect With Me:</h3>
+<h3 align="left">📡 Connect With Me</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/nico-zinngrebe-25977a33a/" target="_blank">
-      <img 
-        align="center" 
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-        alt="nico zinngrebe" 
-        height="30" 
-        width="30"
-        margin="30"/>
-    </a>
-    <!-- <a href="mailto:nicozinngrebe@yahoo.com" target="_blank">
-        <img 
-            align="center" 
-            src="https://cdn-icons-png.flaticon.com/128/3955/3955163.png" 
-            alt="nico zinngrebe"
-            height="40" 
-            width="40" />
-    </a> -->
+  <a href="https://www.linkedin.com/in/nico-zinngrebe-25977a33a/" target="_blank" title="LinkedIn: Nico Zinngrebe">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      alt="LinkedIn" 
+      height="30" 
+      width="30" 
+      style="margin-right: 10px;" />
+  </a>
+  <a href="mailto:nicozinngrebe@yahoo.com" title="Email: nicozinngrebe@yahoo.com">
+    <img 
+      src="https://cdn-icons-png.flaticon.com/128/3955/3955163.png" 
+      alt="Email" 
+      height="30" 
+      width="30" 
+      style="margin-right: 10px;" />
+  </a>
 </p>
