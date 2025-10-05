@@ -20,10 +20,10 @@ These projects walk beside me on my journey toward becoming a web architect, a d
 
 <h3 align="left">📡 Connect With Me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nico-zinngrebe-25977a33a/">
+  <a href="https://www.linkedin.com/in/nico-zinngrebe-25977a33a/" target="_blank" title="LinkedIn: Nico Zinngrebe">
     <img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="LinkedIn" 
+      alt="LinkedIn Icon" 
       height="30" 
       width="30" 
       style="margin-right: 10px;" />
@@ -31,7 +31,7 @@ These projects walk beside me on my journey toward becoming a web architect, a d
   <a href="mailto:nicozinngrebe@yahoo.com" title="Email: nicozinngrebe@yahoo.com">
     <img 
       src="https://cdn-icons-png.flaticon.com/128/3955/3955163.png" 
-      alt="Email" 
+      alt="Email Icon" 
       height="30" 
       width="30" 
       style="margin-right: 10px;" />
