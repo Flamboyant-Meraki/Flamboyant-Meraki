@@ -26,7 +26,7 @@ These projects walk beside me on my journey toward becoming a web architect, a d
       alt="LinkedIn Icon" 
       height="30" 
       width="30" 
-      style="margin-right: -10;" />
+      style="margin-right: 10;" />
   </a>
   <a href="mailto:nicozinngrebe@yahoo.com" title="Email: nicozinngrebe@yahoo.com">
     <img 
