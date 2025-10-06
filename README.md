@@ -26,14 +26,14 @@ These projects walk beside me on my journey toward becoming a web architect, a d
       alt="LinkedIn Icon" 
       height="30" 
       width="30" 
-      style="margin-right: 10px;" />
+      style="margin-right: -10;" />
   </a>
   <a href="mailto:nicozinngrebe@yahoo.com" title="Email: nicozinngrebe@yahoo.com">
     <img 
       src="https://cdn-icons-png.flaticon.com/128/3955/3955163.png" 
       alt="Email Icon" 
-      height="30" 
-      width="30" 
-      style="margin-right: 10px;" />
+      height="37.86" 
+      width="37.86" 
+      style="margin-right: 10;" />
   </a>
 </p>
