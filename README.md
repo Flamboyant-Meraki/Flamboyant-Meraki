@@ -24,7 +24,7 @@ These projects walk beside me on my journey toward becoming a web architect, a d
     <img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
       alt="LinkedIn Icon" 
-      max-height="48" 
+      style: max-height="48px"
       max-width="48" 
     />
   </a>
