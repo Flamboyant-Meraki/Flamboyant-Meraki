@@ -32,8 +32,8 @@ These projects walk beside me on my journey toward becoming a web architect, a d
     <img 
       src="https://cdn-icons-png.flaticon.com/128/3955/3955163.png" 
       alt="Email Icon" 
-      max-height="48px" 
-      max-width="48px" 
+      style: max-height="48px" 
+      width="48px" 
     />
   </a>
 </p>
