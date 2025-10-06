@@ -25,7 +25,7 @@ These projects walk beside me on my journey toward becoming a web architect, a d
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
       alt="LinkedIn Icon" 
       style: max-height="48px"
-      max-width="48" 
+      width="48" 
     />
   </a>
   <a href="mailto:nicozinngrebe@yahoo.com" title="Email: nicozinngrebe@yahoo.com">
