@@ -1,4 +1,6 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=flamboyant-meraki&label=Profile%20views&color=0e75b6&style=flat" alt="flamboyant-meraki" /> </p>
+<p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=flamboyant-meraki&label=Profile%20views&color=0e75b6&style=flat" alt="flamboyant-meraki" /> 
+</p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nico!;+A+frontend+developer+💻;+from+Germany+🥨" />
 </h1>
@@ -8,7 +10,7 @@ Welcome to my little sphere of creation.
 <br>
 These projects walk beside me on my journey toward becoming a web architect, a designer of human-machine interactions, and a seeker of digital solutions. Each repository is a fragment of that journey – reflecting a skill I've honored or a concept I've explored. They evolve with me, grow alongside me, and come to life.
 <br>
-## <br>
+<br>
 
 <h3 align="left">🚀 Some Languages And Tools I Have Used And Learnd:</h3>
 
