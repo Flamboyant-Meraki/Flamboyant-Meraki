@@ -12,30 +12,21 @@ These projects walk beside me on my journey toward becoming a web architect, a d
 <br>
 <br>
 
-<h3 align="left">🚀 Some Languages And Tools I Have Used And Learnd:</h3>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,git,nestjs,nodejs,firebase,figma,react,bootstrap,github,obsidian" />
-  </a>
-</p>
-
 <h3 align="left">📡 Connect With Me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nico-zinngrebe-25977a33a/" target="_blank" title="LinkedIn: Nico Zinngrebe" style="visibility: hidden;">
+  <a href="https://www.linkedin.com/in/nico-zinngrebe-25977a33a/" target="_blank" title="LinkedIn: Nico Zinngrebe">
     <img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
       alt="LinkedIn Icon" 
-      style: max-height="48px"
       width="48" 
+      style="margin-right: 10px;" 
     />
   </a>
   <a href="mailto:nicozinngrebe@yahoo.com" title="Email: nicozinngrebe@yahoo.com">
     <img 
       src="https://cdn-icons-png.flaticon.com/128/3955/3955163.png" 
       alt="Email Icon" 
-      style: max-height="48px" 
-      width="48px" 
+      width="48" 
     />
   </a>
 </p>
