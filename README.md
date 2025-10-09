@@ -23,7 +23,7 @@ These projects walk beside me on my journey toward becoming a web architect, a d
 <h3 align="left">📡 Connect With Me</h3>
 
 <p align="left">
-  I'm always open to meaningful conversations — whether it's about web development, game design, or building something unforgettable together.
+  I'm always open to meaningful conversations — whether it's about web development or building something unforgettable.
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/nico-zinngrebe-25977a33a/" target="_blank" title="LinkedIn: Nico Zinngrebe">
@@ -31,7 +31,7 @@ These projects walk beside me on my journey toward becoming a web architect, a d
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
       alt="LinkedIn Icon" 
       width="40" 
-      style="margin-right: 12px;" 
+      style="margin-right: 20;" 
     />
   </a>
   <a href="mailto:nicozinngrebe@yahoo.com" title="Email: nicozinngrebe@yahoo.com">
@@ -39,7 +39,7 @@ These projects walk beside me on my journey toward becoming a web architect, a d
       src="https://cdn-icons-png.flaticon.com/128/732/732200.png" 
       alt="Email Icon" 
       width="40" 
-      style="margin-right: 12px;" 
+      style="margin-right: 20;" 
     />
   </a>
 </p>
