@@ -34,12 +34,8 @@ These projects walk beside me on my journey toward becoming a web architect, a d
       style="margin-right: 20;" 
     />
   </a>
-  <a href="mailto:nicozinngrebe@yahoo.com" title="Email: nicozinngrebe@yahoo.com">
-    <img 
-      src="https://cdn-icons-png.flaticon.com/128/732/732200.png" 
-      alt="Email Icon" 
-      width="40" 
-      style="margin-right: 20;" 
-    />
+    <br>
+ E-Mail: <a href="mailto:nicozinngrebe@yahoo.com" title="Email: nicozinngrebe@yahoo.com">
+    nicozinngrebe@yahoo.com
   </a>
 </p>
