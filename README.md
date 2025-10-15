@@ -16,7 +16,7 @@ These projects walk beside me on my journey toward becoming a web architect, a d
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,git,nestjs,nodejs,firebase,figma,react,bootstrap,github,obsidian" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,git,nestjs,nodejs,firebase,figma,react,bootstrap,vscode,github,obsidian" />
   </a>
 </p>
 
